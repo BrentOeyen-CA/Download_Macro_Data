@@ -1,2 +1,2 @@
-# Download_Macro_Data
-Codes used to download macro economic data and plot macro economic time series
+# Macro econmic time series
+Use the Eurostat and the ECB macro economic data to calculate and plot macro econonmic time series.
